@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### **[Day 001 - Title](https://isbendiyarovanezrin.github.io/Day1-100DaysCSS "Click Me!")**
+### [Day 001 - Title](https://isbendiyarovanezrin.github.io/Day1-100DaysCSS "Click me!🙂")
 
 </div>
 
