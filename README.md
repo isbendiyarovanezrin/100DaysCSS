@@ -1,9 +1,12 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
+  
+<img width="370px" src="https://i.postimg.cc/6qG13Mr1/css.jpg" />
 
-### [Day 001 - Title](https://isbendiyarovanezrin.github.io/Day1-100DaysCSS "Click me!🙂")
+<br />
+<br />
+  
+|  Day  | Project |                              Live Demo                             |
+|:-----:|:-------:|:------------------------------------------------------------------:|
+|  001  |  Title  | [Live Demo](https://isbendiyarovanezrin.github.io/Day1-100DaysCSS) |
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
